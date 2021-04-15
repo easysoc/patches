@@ -1,0 +1,20 @@
+<products>
+  <product name="IntelliJ IDEA">
+    <code>IC</code>
+    <code>IU</code>
+    <channel id="IC-IU-RELEASE-licensing-RELEASE" name="EasySoC RELEASE" status="release" url="https://github.com/easysoc/patches/releases/download/2021/" feedback="https://github.com/easysoc/chip/discussions" majorVersion="2021" licensing="release">
+      <build number="211.6693" version="2021.1" releaseDate="20210415" fullNumber="211.6693.112">
+      <message><![CDATA[
+<h3>Better Performance</h3>
+<ul>
+    <li>sbt version defaults to 1.5</li>
+    <li>Integrated sbt-launch.jar to improve the dependency download speed of new projects</li>
+    <li>Add tests for the classic GCD example</li>
+    <li>Change MultiIOModule template's port to in/out</li>
+</ul>
+]]></message>
+        <patch from="211.6693" size="4" fullFrom="211.6693.111"/>
+      </build>
+    </channel>
+  </product>
+</products>
