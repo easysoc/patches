@@ -7,7 +7,7 @@
       <message><![CDATA[
 Fix new project exception
 ]]></message>
-        <patch from="211.6693" size="4" fullFrom="211.6693.112"/>
+        <patch from="211.6693" size="0.4" fullFrom="211.6693.112"/>
       </build>
       <build number="211.6693" version="2021.1" releaseDate="20210415" fullNumber="211.6693.112">
       <message><![CDATA[
