@@ -4,11 +4,11 @@
     <code>IU</code>
     <channel id="IC-IU-RELEASE-licensing-RELEASE" name="EasySoC RELEASE" status="release" url="https://github.com/easysoc/patches/releases/download/2021/" feedback="https://github.com/easysoc/chip/discussions" majorVersion="2021" licensing="release">
       <build number="211.7142" version="2021.1.1" releaseDate="20210506" fullNumber="211.7142.45">
+      <blogPost url="https://blog.jetbrains.com/idea/2021/04/intellij-idea-2021-1-1/"/>
       <message><![CDATA[
 EasySoC CHIP 2021.1.1 Released!
 ]]></message>
         <button name="Download" url="https://github.com/easysoc/chip/releases/latest" download="true"/>
-        <button name="More Information" url="https://blog.jetbrains.com/idea/2021/04/intellij-idea-2021-1-1/"/>
       </build>
       <build number="211.6693" version="2021.1" releaseDate="20210415" fullNumber="211.6693.113">
       <message><![CDATA[
